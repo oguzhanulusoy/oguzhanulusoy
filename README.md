@@ -5,4 +5,4 @@
 
 - 👀 I’m interested in software architecture and design.
 - 📫 Reach me out on <a href="http://superpeer.com/oguzhanulusoy">Superpeer</a>, <a href="http://linkedin.com/in/oguzhanulusoy">LinkedIn</a>, <a href="http://github.com/oguzhanulusoy">GitHub</a>.
-- 🌱 I’m currently learning containerization.
+- 🌱 I’m currently learning OS programming.
