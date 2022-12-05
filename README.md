@@ -7,6 +7,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+-- Superpeer: http://superpeer.com/oguzhanulusoy
+Linkedin: http://linkedin.com/in/oguzhanulusoy 
+Github: http://github.com/oguzhanulusoy
 
 <!---
 oguzhanulusoy/oguzhanulusoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
