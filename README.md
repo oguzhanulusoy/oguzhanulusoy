@@ -6,13 +6,5 @@
 <p>
 <br/>👀 I’m interested in software architecture and design.
 <br/>📫 Reach me out on <a href="http://superpeer.com/oguzhanulusoy">Superpeer</a>, <a href="http://linkedin.com/in/oguzhanulusoy">LinkedIn</a>, <a href="http://github.com/oguzhanulusoy">GitHub</a>.
-<br/>🌱 I’m currently learning OS programming. 
 </p>
 
-<table>
-  <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-</table>
